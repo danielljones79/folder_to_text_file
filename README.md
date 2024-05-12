@@ -1,1 +1,2 @@
-# folder_to_text_file
+# To Run
+python app.py /path/to/your/folder
